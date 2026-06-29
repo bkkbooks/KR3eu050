@@ -1,0 +1,467 @@
+canonical_identifier: bkk:krp/KR3eu050/v1
+canonical_location: https://kanripo.org/bkk/KR3eu050/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 長沙證彙
+  identifiers:
+    krp: KR3eu050
+  tags:
+    kr-categories: KR3eu
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu050.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu050_000.yaml, hash: 'sha256:55ffd4319557094c4b55dc283ea76ec4f7b387d8d819970ff50407dc24452f99'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eu050_000.markers.yaml, hash: 'sha256:473de4e11ad8c9b55ea151e2f4572de78dff94182c463de0d3db985a34333dc9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 331
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d3.h1s1
+    span:
+    - front
+    - 331
+    - 609
+  label: 長沙正經證匯序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d4.h1s1
+    span:
+    - front
+    - 609
+    - 821
+  label: 長沙證匯序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d45.h1s1
+    span:
+    - front
+    - 821
+    - 1007
+  label: 長沙正經證匯後序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 1677
+  label: 嘔吐門附唾涎沫噫噦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d6.h1s1
+    span:
+    - body
+    - 1677
+    - 2382
+  label: 大便不通門附硬難
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d7.h1s1
+    span:
+    - body
+    - 2382
+    - 3870
+  label: 小便不利門附難自利自調
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d8.h1s1
+    span:
+    - body
+    - 3870
+    - 4282
+  label: 上衝門附上氣氣逆
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d9.h1s1
+    span:
+    - body
+    - 4282
+    - 5768
+  label: 腹痛門附滿脹少腹滿痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d10.h1s1
+    span:
+    - body
+    - 5768
+    - 6128
+  label: 結胸門附胸痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d11.h1s1
+    span:
+    - body
+    - 6128
+    - 7045
+  label: 心下痞硬門附痞心中痞堅滿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d12.h1s1
+    span:
+    - body
+    - 7045
+    - 7789
+  label: 胸脅苦滿門附痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d13.h1s1
+    span:
+    - body
+    - 7789
+    - 8027
+  label: 心下悸門附臍下悸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d14.h1s1
+    span:
+    - body
+    - 8027
+    - 9241
+  label: 惡寒門附惡風往來寒熱振寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d15.h1s1
+    span:
+    - body
+    - 9241
+    - 9781
+  label: 厥冷門附厥逆
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d16.h1s1
+    span:
+    - body
+    - 9781
+    - 11167
+  label: 煩門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d17.h1s1
+    span:
+    - body
+    - 11167
+    - 12722
+  label: 汗出門附黃汗盜汗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d18.h1s1
+    span:
+    - body
+    - 12722
+    - 13414
+  label: 身疼痛門附骨節痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d19.h1s1
+    span:
+    - body
+    - 13414
+    - 13669
+  label: 頭痛門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d20.h1s1
+    span:
+    - body
+    - 13669
+    - 13869
+  label: 頸項強門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d21.h1s1
+    span:
+    - body
+    - 13869
+    - 14836
+  label: 渴門附口乾舌燥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d22.h1s1
+    span:
+    - body
+    - 14836
+    - 15144
+  label: 頭眩門附冒眩
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d23.h1s1
+    span:
+    - body
+    - 15144
+    - 15586
+  label: 裡急門附拘攣痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d24.h1s1
+    span:
+    - body
+    - 15586
+    - 16296
+  label: 喘門附咳嗽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d25.h1s1
+    span:
+    - body
+    - 16296
+    - 16805
+  label: 諸黃門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d26.h1s1
+    span:
+    - body
+    - 16805
+    - 17620
+  label: 下利門附便膿血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d27.h1s1
+    span:
+    - body
+    - 17620
+    - 18202
+  label: 水腫門附身重
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d28.h1s1
+    span:
+    - body
+    - 18202
+    - 18484
+  label: 短氣門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d29.h1s1
+    span:
+    - body
+    - 18484
+    - 18730
+  label: 咽痛門附咽喉不利
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d30.h1s1
+    span:
+    - body
+    - 18730
+    - 19333
+  label: 血證門附經水不調
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d31.h1s1
+    span:
+    - body
+    - 19333
+    - 19427
+  label: 不仁門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d32.h1s1
+    span:
+    - body
+    - 19427
+    - 19612
+  label: 心中懊憹門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d33.h1s1
+    span:
+    - body
+    - 19612
+    - 19734
+  label: 身瞤門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d34.h1s1
+    span:
+    - body
+    - 19734
+    - 20193
+  label: 不得眠門附臥起不安
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d35.h1s1
+    span:
+    - body
+    - 20193
+    - 20580
+  label: 讝語門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d36.h1s1
+    span:
+    - body
+    - 20580
+    - 20775
+  label: 發狂門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d37.h1s1
+    span:
+    - body
+    - 20775
+    - 21042
+  label: 癰膿門附肺痿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d38.h1s1
+    span:
+    - body
+    - 21042
+    - 21096
+  label: 蛔蟲門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d39.h1s1
+    span:
+    - body
+    - 21096
+    - 21299
+  label: 陰疾門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d40.h1s1
+    span:
+    - body
+    - 21299
+    - 21352
+  label: 留飲門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d41.h1s1
+    span:
+    - body
+    - 21352
+    - 21400
+  label: 宿食門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d42.h1s1
+    span:
+    - body
+    - 21400
+    - 21453
+  label: 雜門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d43.h1s1
+    span:
+    - body
+    - 21453
+    - 30870
+  label: 長沙正經證匯諸方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu050_jc_000-d44.h1s1
+    span:
+    - body
+    - 30870
+    - 31018
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:3d2cf5c6533a9e2b2278d36d26ee16cbb9f4e2be9269b706691b890c1fad9b58
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
